@@ -1,6 +1,7 @@
 package array;
 
 public class Solution3 {
+	//change commite to 29
 	 public int MoreThanHalfNum_Solution(int [] array) {
 		 if(array==null||array.length==0) {
 			 return 0;
