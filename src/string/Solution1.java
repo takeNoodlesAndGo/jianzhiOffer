@@ -6,6 +6,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 public class Solution1 {
+	//change commite to 28
 	public ArrayList<String> list = new ArrayList<String>();
 	public ArrayList<String> Permutation(String str) {
 		if(str==null||str.length()==0)
