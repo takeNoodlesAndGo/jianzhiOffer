@@ -3,7 +3,7 @@ package tree;
 import bean.TreeNode;
 
 public class Solution5 {
-	//change commit to 28
+	//change commit to 27
 	 public TreeNode lastNode = null;
 	 public TreeNode Convert(TreeNode pRootOfTree) {
 		 convertNode(pRootOfTree);
